@@ -14,7 +14,7 @@ I am interested in building up my programming and stastically skills
 - Tableau
 
 ### 💻 Projects
-- What are the characteristics that influence/predict song popularity?
+- What are the characteristics that predict song popularity?
 - Exploring the indicators that influence artist popularity. 
 <!--
 **coralscreates/coralscreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
