@@ -8,14 +8,21 @@ I am interested in building up my programming and stastically skills
 - MSc in Data Science at The University Of Sheffield (Currently)
 - BSc in Psychology at The University Of Sheffield (2022-2025)
 
-### ⚡️ Skills
+### 🚀 Skills
 - SPSS
 - R studio
 - Tableau
 
 ### 💻 Projects
 - What are the characteristics that predict song popularity?
-- Exploring the indicators that influence artist popularity. 
+- Exploring the indicators that influence artist popularity.
+
+### 🌱 Current
+- Currently learning Python
+
+### 📫
+- My Linkedin [www.linkedin.com/in/coralie-owona-44b622352]
+
 <!--
 **coralscreates/coralscreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
