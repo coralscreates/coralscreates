@@ -1,8 +1,11 @@
-## Welcome to Coralie's GitHub Page🌟
+## Welcome to my GitHub Page🌟
 
-I am Coralie, a master students currently studying Data Science at The University Of Sheffield
+Hi I am Coralie Owona
 
-I am building up my programming and coding skills
+🎓 Education
+I am master's student currently studying Data Science at The University Of Sheffield
+My undergraduate degree was in Psychology
+
 
 <!--
 **coralscreates/coralscreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
