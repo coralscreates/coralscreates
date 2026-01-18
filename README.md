@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Page🌟
 
 Hi I am Coralie
-###🎓 Education
+### 🎓 Education
 
 | Currently MSc in Data Science at The University Of Sheffield
 
