@@ -1,11 +1,12 @@
 ## Welcome to my GitHub Page🌟
 
-Hi I am Coralie
+Hi I am Coralie, I am currently a Master's student studying Data Science at The University Of Sheffield.
+
+I am interested in building up my programming and stastically skills
 ### 🎓 Education
 
-| Currently MSc in Data Science at The University Of Sheffield
-
-| BSc in Psychology (2022-2025)
+- MSc in Data Science at The University Of Sheffield (Currently)
+- BSc in Psychology at The University Of Sheffield (2022-2025)
 
 ### ⚡️ Skills
 | SPSS 
