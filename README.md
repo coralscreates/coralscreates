@@ -21,7 +21,7 @@ I am interested in building up my programming and stastically skills
 - Currently learning Python
 
 ### 🔗 Connecting with me
-- [My Linkedin] (www.linkedin.com/in/coralie-owona-44b622352)
+- [My Linkedin](www.linkedin.com/in/coralie-owona-44b622352)
 
 <!--
 **coralscreates/coralscreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
