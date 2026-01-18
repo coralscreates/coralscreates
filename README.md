@@ -1,8 +1,8 @@
 ## Welcome to my GitHub Page🌟
 
-Hi I am Coralie Owona
+Hi I am Coralie
+# 🎓 Education
 
-🎓 Education
 I am master's student currently studying Data Science at The University Of Sheffield
 My undergraduate degree was in Psychology
 
