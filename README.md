@@ -1,6 +1,5 @@
-## Hi there 👋
+## Welcome to Coralie's GitHub Page🌟
 
-Here are some ideas to get you started:
 I am Coralie, a master students currently studying Data Science at The University Of Sheffield
 
 I am building up my programming and coding skills
