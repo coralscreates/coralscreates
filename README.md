@@ -4,6 +4,7 @@ Hi I am Coralie
 # 🎓 Education
 
 |Currently a Master's student studying Data Science at The University Of Sheffield
+
 |BSc in Psychology 
 
 
