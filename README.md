@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Here are some ideas to get you started:
+I am Coralie, a master students currently studying Data Science at The University Of Sheffield
+
+I am building up my programming and coding skills
+
 <!--
 **coralscreates/coralscreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
