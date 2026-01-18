@@ -3,8 +3,8 @@
 Hi I am Coralie
 # 🎓 Education
 
-I am master's student currently studying Data Science at The University Of Sheffield
-My undergraduate degree was in Psychology
+|Currently a Master's student studying Data Science at The University Of Sheffield
+|BSc in Psychology 
 
 
 <!--
