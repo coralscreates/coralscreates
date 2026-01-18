@@ -11,6 +11,7 @@ I am interested in building up my programming and stastically skills
 ### ⚡️ Skills
 - SPSS
 - R studio
+- Tableau
 
 ### 💻 Projects
 - What are the characteristics that influence/predict song popularity?
