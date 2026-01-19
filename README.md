@@ -1,7 +1,7 @@
-## Welcome to my GitHub Page🌟
+# Welcome to my GitHub Page🌟
 
 
-# About me🧚🏾‍♀️
+## About me🧚🏾‍♀️
 Hi, I'm Coralie!
 
 I am currently a Master's student studying Data Science at The University Of Sheffield.
@@ -16,7 +16,7 @@ I am currently a Master's student studying Data Science at The University Of She
 ### 🔗 Connect with me
 - [My LinkedIn](www.linkedin.com/in/coralie-owona-44b622352)
 
-# Academic 👩🏽‍💻
+## Academic 👩🏽‍💻
 
 ### 🎓 Education
 
