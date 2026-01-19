@@ -4,7 +4,7 @@
 ## About me🧚🏾‍♀️
 Hi, I'm Coralie!
 
-I am currently a Master's student studying Data Science at The University Of Sheffield.
+I'm a Master's student studying Data Science at The University Of Sheffield.
 ### 🪷 Interests 
 - Exploring datasets
 - Reading books (all genres)
