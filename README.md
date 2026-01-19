@@ -25,7 +25,7 @@ I'm a Master's student studying Data Science at The University Of Sheffield.
 
 ### 🚀 Skills
 - SPSS: running statistical analyses
-- RStudio: creating visualisations
+- RStudio: creating visualisations and running analyses
 ### 💻 Projects
 - [What are the characteristics that predict song popularity?](https://github.com/coralscreates/IJC437-Project-Page)
 - [Exploring the indicators that influence artist popularity.](https://github.com/coralscreates/IJC445-Project-Page)
