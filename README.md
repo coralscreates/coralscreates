@@ -1,24 +1,25 @@
 ## Welcome to my GitHub Page🌟
 
-Hi I am Coralie, I am currently a Master's student studying Data Science at The University Of Sheffield.
+Hi, I'm Coralie!
 
-I am interested in building up my programming and stastically skills
+I am currently a Master's student studying Data Science at The University Of Sheffield.
+
 ### 🎓 Education
 
 - MSc in Data Science at The University Of Sheffield (Currently)
 - BSc in Psychology at The University Of Sheffield (2022-2025)
 
 ### 🚀 Skills
-- SPSS
-- R studio
-- Tableau
+- SPSS: running statistical analyses
+- RStudio: creating visualisations
 
 ### 💻 Projects
 - What are the characteristics that predict song popularity?
 - Exploring the indicators that influence artist popularity.
 
-### 🌱 Current
+### 🌱 Currents
 - Currently learning Python
+- Exploring Tableau
 
 ### 🔗 Connecting with me
 - [My LinkedIn](www.linkedin.com/in/coralie-owona-44b622352)
