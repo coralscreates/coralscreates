@@ -14,7 +14,7 @@ I am currently a Master's student studying Data Science at The University Of She
 - Listening to music and creating playlists
 
 ### 🔗 Connect with me
-- [My LinkedIn](www.linkedin.com/in/coralie-owona-44b622352)
+- [LinkedIn](www.linkedin.com/in/coralie-owona-44b622352)
 
 ## Academic 👩🏽‍💻
 
