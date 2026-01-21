@@ -28,7 +28,7 @@ I'm a Master's student studying Data Science at The University Of Sheffield.
 - RStudio: creating visualisations and running analyses
 ### 💻 Projects
 - [What are the characteristics that predict song popularity?](https://github.com/coralscreates/IJC437-Project-Page)
-- [Exploring the indicators that influence artist popularity.](https://github.com/coralscreates/IJC445-Project-Page)
+- [Exploring the characteristics that influence artist popularity.](https://github.com/coralscreates/IJC445-Project-Page)
 
 ### 🌱 Currents
 - Currently learning Python
